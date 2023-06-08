@@ -4,10 +4,10 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Neoklis Varsamos
-- Descriptiom = "Full-Stack (Backend Heavy) Developer"
+- Descriptiom = "Full-Stack Developer"
 - WorkEnviroment = "web Developer";
 - LearningEnviroment = "Python && ML";
-- CuriousAbout = "Machine Learning Algothmic Trading"
+- CuriousAbout = "ML Algothmic Trading"
 - Contact = this.LinksBelow.GetType().GetProperties();
 
 
