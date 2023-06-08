@@ -4,11 +4,11 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Neoklis Varsamos
-- string Descriptiom = "Full-Stack (Backend Heavy) Developer"'
-- string WorkEnviroment = "web Developer";
-- string LearningEnviroment = "Python && ML";
-- string CuriousAbout = "Machine Learning Algothmic Trading"
-- var Contact = this.LinksBelow.GetType().GetProperties();
+- Descriptiom = "Full-Stack (Backend Heavy) Developer"
+- WorkEnviroment = "web Developer";
+- LearningEnviroment = "Python && ML";
+- CuriousAbout = "Machine Learning Algothmic Trading"
+- Contact = this.LinksBelow.GetType().GetProperties();
 
 
 <a href="https://twitter.com/darshanjain01">
