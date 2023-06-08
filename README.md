@@ -9,8 +9,8 @@
 - LearningEnviroment = "Python && ML";
 - CuriousAbout = "ML Algothmic Trading";
 - Contact = LinkBelow.GetType().GetProperties();
-
-
+<br />
+<br />
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neoklis-varsamos-218a4a258/)
 
 
