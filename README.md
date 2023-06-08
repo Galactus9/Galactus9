@@ -8,7 +8,7 @@
 - WorkEnviroment = "web Developer";
 - LearningEnviroment = "Python && ML";
 - CuriousAbout = "ML Algothmic Trading"
-- Contact = this.LinksBelow.GetType().GetProperties();
+- Contact = LinksBelow.GetType().GetProperties();
 
 
 <a href="https://twitter.com/darshanjain01">
