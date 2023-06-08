@@ -14,7 +14,7 @@
 <a href="https://twitter.com/darshanjain01">
   <img align="left" alt="Darshan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/darshan-j-236793121/">
+<a href="https://www.linkedin.com/in/darshan-j-236793121">
   <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/darshan-jain">
