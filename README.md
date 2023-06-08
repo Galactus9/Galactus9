@@ -11,9 +11,7 @@
 - Contact = LinksBelow.GetType().GetProperties();
 
 
-<a href="https://www.linkedin.com/in/neoklis-varsamos-218a4a258/">
-  <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 
 
 
