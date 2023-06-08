@@ -13,10 +13,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neoklis-varsamos-218a4a258/)
 
-<br/>
-   - 💻 &nbsp;
-<br/>
 
+- 💻 &nbsp;
 
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%20Sharp&logoColor=239120)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)
