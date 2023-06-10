@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neoklis-varsamos-218a4a258/)
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+  <a href="https://www.linkedin.com/in/neoklis-varsamos-218a4a258/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 - 💻 &nbsp;
