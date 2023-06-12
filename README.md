@@ -29,9 +29,10 @@
 <br />
 <br />
   
-- 💻 What I know &nbsp;
+
 
 <p align="center">
+  - 💻 What I know &nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
