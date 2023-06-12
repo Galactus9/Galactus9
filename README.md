@@ -36,7 +36,7 @@
   
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,cs,js,github,docker" />
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,cs,js,github,css,html" />
   </a>
 </p>
 
@@ -46,13 +46,10 @@
   - 📖 What I sdudy &nbsp;
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,vue,ts,docker,graphql," />
   </a>
 </p>
-- 🔧 &nbsp;
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
 
 
 
