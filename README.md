@@ -36,7 +36,7 @@
   
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,visualstudio,vscode,cs,js,github,docker" />
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,cs,js,github,docker" />
   </a>
 </p>
 
