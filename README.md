@@ -29,7 +29,7 @@
 <br />
 <br />
   
-- 💻 &nbsp;
+- 💻 What I know &nbsp;
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%20Sharp&logoColor=239120)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
