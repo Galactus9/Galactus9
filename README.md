@@ -12,7 +12,7 @@
 <br />
 
   <a href="https://www.linkedin.com/in/neoklis-varsamos-218a4a258/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="50" width="50">
   </a>
   
   
