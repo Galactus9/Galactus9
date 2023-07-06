@@ -47,10 +47,12 @@
   <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,vue,ts,docker,graphql," />
+    <img src="https://avatars.githubusercontent.com/u/33746873?s=200&v=4" />
+
   </a>
 </p>
 
-![33746873](https://github.com/Galactus9/Galactus9/assets/117937168/04a83cff-af83-405d-a636-6788c9ccff3a)
+
 
 
 
