@@ -47,8 +47,6 @@
   <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,vue,ts,docker,graphql," />
-    <img src="https://avatars.githubusercontent.com/u/33746873?s=200&v=4" />
-
   </a>
 </p>
 
