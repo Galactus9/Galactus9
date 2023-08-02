@@ -5,8 +5,8 @@
 
 ### I am Neoklis Varsamos
 - Description = "Full-Stack Developer";
-- WorkEnviroment = "web Developer";
-- LearningEnviroment = "Python && ML";
+- WorkEnvironment = "Web Developer";
+- LearningEnvironment = "Python & ML";
 - CuriousAbout = "ML Algothmic Trading";
 - Contact = LinkBelow.GetType().GetProperties();
 <br />
@@ -55,20 +55,11 @@
 ## Projects 001 - 099: Complete Projects Made to Serve Some Business Logic
 This category showcases a selection of complete projects that are specifically designed to serve various business logic requirements. Each project within this range represents a functional solution tailored to address specific business needs. However, it is essential to note that the primary goal of these projects is to provide a practical learning experience for developers to explore various programming techniques and deepen their understanding of programming concepts. While the projects are fully functional, their main purpose is not to serve as efficient and effective software solutions for practical applications.
 
-### Overview
-The projects in this category are meant to serve as valuable learning resources for developers of all skill levels. They offer hands-on experience in applying programming techniques to real-world scenarios, helping developers build a diverse skill set while addressing specific business challenges. The projects encompass a range of programming languages, frameworks, and methodologies, providing an opportunity to explore different aspects of software development.
-
 ## Projects 101 - 199: Case Studies of Variable Techniques or Designs
 This category comprises a series of case studies that delve into exploring various variable techniques and designs within the context of software development. Each project within this range serves as an experimental platform to study the effectiveness of different methodologies and approaches in solving technical challenges.
 
-### Overview
-The projects in this category are designed to facilitate in-depth investigations into diverse techniques and designs used in software development. They serve as valuable learning resources for developers seeking to expand their knowledge and proficiency in problem-solving, software design, architecture, and optimization. By conducting case studies of variable techniques, developers can gain insights into the strengths and weaknesses of different approaches and learn how to make informed design decisions.
-
 ## Projects 201 - 299: Custom Automated Trading Systems for c-Trader (FOREX)
 This category consists of custom automated trading systems developed specifically for the c-Trader platform. These algorithmic trading systems are designed to operate in the foreign exchange (FOREX) markets, allowing traders to execute trades automatically based on predefined strategies and market conditions.
-
-### Overview
-Automated trading systems provide traders with several advantages, such as the ability to execute trades 24/5 without manual intervention, backtest strategies using historical data, and reduce the emotional impact of trading decisions. The projects in this category showcase a diverse range of trading strategies, incorporating technical indicators, machine learning algorithms, and advanced risk management techniques.
 
 ### Disclaimer
 Please be aware that trading in the FOREX markets involves significant risk, and past performance of any trading system is not necessarily indicative of future results. The projects presented here are for educational and informational purposes only and should not be considered as financial advice. Traders are responsible for conducting their due diligence and exercising caution when deploying automated trading systems in live markets.
