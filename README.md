@@ -70,7 +70,7 @@ This category consists of custom automated trading systems developed specificall
 -Overview
 Automated trading systems provide traders with several advantages, such as the ability to execute trades 24/5 without manual intervention, backtest strategies using historical data, and reduce the emotional impact of trading decisions. The projects in this category showcase a diverse range of trading strategies, incorporating technical indicators, machine learning algorithms, and advanced risk management techniques.
 
-## Disclaimer
+### Disclaimer
 Please be aware that trading in the FOREX markets involves significant risk, and past performance of any trading system is not necessarily indicative of future results. The projects presented here are for educational and informational purposes only and should not be considered as financial advice. Traders are responsible for conducting their due diligence and exercising caution when deploying automated trading systems in live markets.
 
 # Benefits and Learning Outcomes
