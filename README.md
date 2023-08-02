@@ -7,7 +7,7 @@
 - Description = "Full-Stack Developer";
 - WorkEnvironment = "Web Developer";
 - LearningEnvironment = "Python & ML";
-- CuriousAbout = "ML Algothmic Trading";
+- CuriousAbout = "ML Algorithmic Trading";
 - Contact = LinkBelow.GetType().GetProperties();
 <br />
 
