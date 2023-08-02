@@ -67,7 +67,7 @@ The projects in this category are designed to facilitate in-depth investigations
 ## Projects 201 - 299: Custom Automated Trading Systems for c-Trader (FOREX)
 This category consists of custom automated trading systems developed specifically for the c-Trader platform. These algorithmic trading systems are designed to operate in the foreign exchange (FOREX) markets, allowing traders to execute trades automatically based on predefined strategies and market conditions.
 
--Overview
+## Overview
 Automated trading systems provide traders with several advantages, such as the ability to execute trades 24/5 without manual intervention, backtest strategies using historical data, and reduce the emotional impact of trading decisions. The projects in this category showcase a diverse range of trading strategies, incorporating technical indicators, machine learning algorithms, and advanced risk management techniques.
 
 ### Disclaimer
