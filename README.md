@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  - 📖 What I sdudy &nbsp;
+  - 📖 What I study &nbsp;
   <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,vue,ts,docker,graphql," />
